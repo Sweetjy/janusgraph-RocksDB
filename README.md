@@ -14,5 +14,5 @@
 
 #### 使用
 1.直接下载运行
-2.将janusgraph-rocksdb作为包添加到 janusgraph 源码中使用
-3.properties文件放到janusgraph-dist\src\assembly\cfilter\conf目录下
+
+2.将janusgraph-rocksdb作为包添加到 janusgraph 源码中使用，在janusgraph-core中添加相关内容，将properties文件放到janusgraph-dist\src\assembly\cfilter\conf目录下
